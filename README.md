@@ -25,4 +25,4 @@ git clone https://github.com/lucaspinheiro27/Python_statistics
 
 | File                                                     | About |
 |----------------------------------------------------------|---|
-| [Gym_members.ipynb](Jupyter_notebooks/Gym_members.ipynb) | . |
+| [Gym_members.ipynb](Jupyter_notebooks/Gym_members.ipynb) | Exploratory Data Analysis (EDA) of Gym Members' Exercise Routines. |
