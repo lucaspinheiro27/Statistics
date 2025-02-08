@@ -23,6 +23,8 @@ git clone https://github.com/lucaspinheiro27/Python_statistics
 # Table of content
 
 
-| File                                                     | About |
-|----------------------------------------------------------|---|
-| [Gym_members.ipynb](Jupyter_notebooks/Gym_members.ipynb) | Exploratory Data Analysis (EDA) of Gym Members' Exercise Routines. |
+| File                                                             | About                                                                                                 |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [Gym_members.ipynb](Jupyter_notebooks/Gym_members.ipynb)         | Exploratory Data Analysis (EDA) of Gym Members' Exercise Routines.                                    |
+| [tiktok_accounts.ipynb](Jupyter_notebooks/tiktok_accounts.ipynb) | Sampling distributions regarding the top 100 TikTok accounts and bootstrapping.                       | 
+| [Student_distribution.ipynb](Jupyter_notebooks/Student_distribution.ipynb) | A comprehensive notebook providing an introduction to the primary types of probability distributions. |
