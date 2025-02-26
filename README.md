@@ -18,7 +18,7 @@ This repository is designed to approach a series of statistics notebooks, which 
 ### Clone this repository
 
 ```
-git clone https://github.com/lucaspinheiro27/Python_statistics
+git clone https://github.com/lucaspinheiro27/Statistics
 ```
 # Table of content
 
