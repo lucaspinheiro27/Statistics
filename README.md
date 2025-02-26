@@ -23,11 +23,11 @@ git clone https://github.com/lucaspinheiro27/Python_statistics
 # Table of content
 
 
-| File                                                               | About                                                             |
-|--------------------------------------------------------------------|-------------------------------------------------------------------|
-| [Gym_members.ipynb](Jupyter_notebooks/Gym_members.ipynb)           | Exploratory Data Analysis (EDA) of Gym Members' Exercise Routines.|
-| [tiktok_accounts.ipynb](Jupyter_notebooks/tiktok_accounts.ipynb)   | Sampling distributions regarding the top 100 TikTok accounts and bootstrapping.| 
-| [Student_distribution.ipynb](Jupyter_notebooks/Student_distribution.ipynb) | A comprehensive notebook providing an introduction to the primary types of probability distributions.|
-| [Statistical_experiments.ipynb](Jupyter_notebooks/Statistical_experiments.ipynb) | Experiment with two groups to analyze the results and establish which is superior.|
-| [Statistical_significance.ipynb](Jupyter_notebooks/Statistical_significance.ipynb) | Measure whether an experiment yields more extreme than the chance might produce.|
-| [Alcohol_consumption.ipynb](Jupyter_notebooks/Alcohol_consumption.)| A survey of students math and portuguese courses, comparing the multiple groups using Anova and T_test| 
+| File                                                                    | About                                                                                                   |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [Gym_members.ipynb](Jupyter_notebooks/Gym_members.ipynb)                | Exploratory Data Analysis (EDA) of Gym Members' Exercise Routines.                                      |
+| [tiktok_accounts.ipynb](Jupyter_notebooks/tiktok_accounts.ipynb)        | Sampling distributions regarding the top 100 TikTok accounts and bootstrapping.                         | 
+| [Student_distribution.ipynb](Jupyter_notebooks/Student_distribution.ipynb) | A comprehensive notebook providing an introduction to the primary types of probability distributions.   |
+| [Statistical_experiments.ipynb](Jupyter_notebooks/Statistical_experiments.ipynb) | Experiment with two groups to analyze the results and establish which is superior.                      |
+| [Statistical_significance.ipynb](Jupyter_notebooks/Statistical_significance.ipynb) | Measure whether an experiment yields more extreme than the chance might produce.                        |
+| [Alcohol_consumption.ipynb](Jupyter_notebooks/Alcohol_consumption.ipynb)| A survey of students math and portuguese courses, comparing the multiple groups using Anova and T_test. | 
