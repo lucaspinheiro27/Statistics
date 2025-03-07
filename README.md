@@ -31,3 +31,4 @@ git clone https://github.com/lucaspinheiro27/Statistics
 | [Statistical_experiments.ipynb](Jupyter_notebooks/Statistical_experiments.ipynb) | Experiment with two groups to analyze the results and establish which is superior.                      |
 | [Statistical_significance.ipynb](Jupyter_notebooks/Statistical_significance.ipynb) | Measure whether an experiment yields more extreme than the chance might produce.                        |
 | [Alcohol_consumption.ipynb](Jupyter_notebooks/Alcohol_consumption.ipynb)| A survey of students math and portuguese courses, comparing the multiple groups using Anova and T-test. | 
+| [simple_linear.ipynb](Jupyter_notebooks/simple_linear.ipynb) | Simple linear regression using salary dataset based on Salary and Years of experience | 
