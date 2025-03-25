@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="655e4ae6-5b5d-43df-b102-c346b775cfe5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Jupyter_notebooks/House_prices.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter_notebooks/Instrucao_brasil.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_notebooks/Instrucao_brasil.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter_notebooks/House_prices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_notebooks/House_prices.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,8 @@
       <workItem from="1742335127884" duration="2038000" />
       <workItem from="1742386263364" duration="12074000" />
       <workItem from="1742402988494" duration="1769000" />
-      <workItem from="1742824452526" duration="17990000" />
+      <workItem from="1742824452526" duration="18363000" />
+      <workItem from="1742862869059" duration="6988000" />
     </task>
     <servers />
   </component>
