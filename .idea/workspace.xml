@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="655e4ae6-5b5d-43df-b102-c346b775cfe5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Jupyter_notebooks/HousePrice_Competition.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jupyter_notebooks/House_Saleprice.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jupyter_notebooks/House_prices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_notebooks/House_prices.ipynb" afterDir="false" />
     </list>
@@ -95,6 +97,18 @@
       <workItem from="1742907254522" duration="24000" />
       <workItem from="1742907381044" duration="1551000" />
       <workItem from="1742908935497" duration="10782000" />
+      <workItem from="1742925927749" duration="3669000" />
+      <workItem from="1742992525732" duration="15336000" />
+      <workItem from="1743015782230" duration="1063000" />
+      <workItem from="1743076735930" duration="15019000" />
+      <workItem from="1743164373187" duration="11085000" />
+      <workItem from="1743185582987" duration="1193000" />
+      <workItem from="1743414404075" duration="7717000" />
+      <workItem from="1743422207974" duration="1866000" />
+      <workItem from="1743424079722" duration="28000" />
+      <workItem from="1743424115849" duration="6086000" />
+      <workItem from="1743433032214" duration="4119000" />
+      <workItem from="1743439512197" duration="14700000" />
     </task>
     <servers />
   </component>
